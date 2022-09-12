@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RTHKKona
-- 👀 I’m interested in cybersecurity - blueteaming/DevSecOps
-- 🌱 I’m currently learning Python, Typescript, Networking, Linux, Bash
+- 👀 I’m interested in cybersecurity - blueteaming/software engineering
+- 🌱 I’m currently learning JavaScript/Typescript, Python, Networking, Linux, Bash
 - 💞️ I’m looking to collaborate and learn cybersecurity together!
 - 📫 How to reach me - email l.cwhoward@gmail.com
