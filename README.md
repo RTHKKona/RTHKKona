@@ -9,4 +9,3 @@
 
 Feel free to reach out! 
 
-<iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
