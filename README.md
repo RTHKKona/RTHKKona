@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @RTHKKona!
+- 👋 Hi, I’m @RTHKKona! aka Handburger
 This is the place where I store my thoughts about [projects](https://rthkkona.github.io/)
 
 
