@@ -1,6 +1,6 @@
 
-- 👋 Hi, I’m @RTHKKona! aka Handburger
-This is the place where I store my thoughts about [projects](https://rthkkona.github.io/)
+- 👋 Hi, I’m @RTHKKona! aka Handburger.
+- [Github Pages](https://rthkkona.github.io/)
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L711AIP8)
